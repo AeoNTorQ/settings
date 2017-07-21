@@ -1,7 +1,5 @@
 <templateSet group="Go">
-  <template name="imp" value="import (&#10; &quot;$END$&quot;&#10;)" description="Import declaration" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="imp" value="import (&#10; &quot;$END$&quot;&#10;)" description="Import declaration" toReformat="true" toShortenFQNames="true" />
   <template name="co" value="const $NAME$ $TYPE$ = $VALUE$" description="Constant declaration" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="TYPE" expression="complete()" defaultValue="" alwaysStopAt="true" />
