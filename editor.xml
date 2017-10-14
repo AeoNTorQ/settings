@@ -3,4 +3,13 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bDEBUG\b.*">
+      <option name="FOREGROUND" value="c04f7c" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ab1928" />
+    </pattern>
+  </component>
 </application>
