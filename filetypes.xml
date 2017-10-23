@@ -18,6 +18,7 @@
       <mapping pattern="1_add_payee_table_up" type="PLAIN_TEXT" />
       <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping pattern="manualScript" type="PLAIN_TEXT" />
+      <mapping pattern="kw" type="PLAIN_TEXT" />
       <mapping pattern="y" type="PLAIN_TEXT" />
       <mapping pattern="createInvoices" type="PLAIN_TEXT" />
       <mapping pattern="marketpayment_transfer_scheduler" type="PLAIN_TEXT" />
