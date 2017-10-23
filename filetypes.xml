@@ -1,34 +1,36 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="1_add_payee_table_up" type="PLAIN_TEXT" />
-      <mapping pattern="db schema info" type="PLAIN_TEXT" />
-      <mapping pattern="eligible" type="PLAIN_TEXT" />
-      <mapping pattern="20170220_add_active_campaign_transactions.sql" type="PLAIN_TEXT" />
-      <mapping pattern="add_coupon" type="PLAIN_TEXT" />
-      <mapping pattern="MANUAL" type="PLAIN_TEXT" />
-      <mapping pattern="20170309_fixup_transfer_internal_ref_id" type="PLAIN_TEXT" />
-      <mapping pattern="script" type="PLAIN_TEXT" />
-      <mapping pattern="20170220_add_active_campaign_transactions" type="PLAIN_TEXT" />
-      <mapping pattern="createInvoices.sh" type="PLAIN_TEXT" />
-      <mapping pattern="fewBids" type="PLAIN_TEXT" />
-      <mapping pattern="createInvoices" type="PLAIN_TEXT" />
-      <mapping pattern="f" type="PLAIN_TEXT" />
-      <mapping pattern="marketpayment_transfer_scheduler" type="PLAIN_TEXT" />
       <mapping pattern="1_drop_payee_table_down" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="db schema info" type="PLAIN_TEXT" />
       <mapping pattern="bidsList" type="PLAIN_TEXT" />
+      <mapping pattern="fewBids" type="PLAIN_TEXT" />
+      <mapping pattern="1_add_payee_table_up" type="PLAIN_TEXT" />
+      <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping pattern="manualScript" type="PLAIN_TEXT" />
+      <mapping pattern="y" type="PLAIN_TEXT" />
+      <mapping pattern="createInvoices" type="PLAIN_TEXT" />
+      <mapping pattern="marketpayment_transfer_scheduler" type="PLAIN_TEXT" />
+      <mapping pattern="x" type="PLAIN_TEXT" />
+      <mapping pattern="createInvoices.sh" type="PLAIN_TEXT" />
+      <mapping pattern="eligible" type="PLAIN_TEXT" />
+      <mapping pattern="add_coupon" type="PLAIN_TEXT" />
+      <mapping pattern="20170309_fixup_transfer_internal_ref_id" type="PLAIN_TEXT" />
+      <mapping pattern="MANUAL" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="20170220_add_active_campaign_transactions.sql" type="PLAIN_TEXT" />
+      <mapping pattern="f" type="PLAIN_TEXT" />
+      <mapping pattern="20170220_add_active_campaign_transactions" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="streetcrud" type="PLAIN_TEXT" />
       <mapping pattern="2017_07_Redirect_Direct_Marketing_Traffic_to_Near_Me_Pages" type="YAML" />
