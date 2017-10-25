@@ -32,6 +32,7 @@
       <mapping pattern="20170220_add_active_campaign_transactions.sql" type="PLAIN_TEXT" />
       <mapping pattern="f" type="PLAIN_TEXT" />
       <mapping pattern="20170220_add_active_campaign_transactions" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="streetcrud" type="PLAIN_TEXT" />
       <mapping pattern="2017_07_Redirect_Direct_Marketing_Traffic_to_Near_Me_Pages" type="YAML" />
