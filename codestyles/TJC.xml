@@ -67,6 +67,7 @@
       <array>
         <option value="org.scalatest.FunSuite" />
         <option value="org.scalatest.Matchers._" />
+        <option value="spark.implicits._" />
       </array>
     </option>
     <option name="DO_NOT_INDENT_TUPLES_CLOSE_BRACE" value="false" />
