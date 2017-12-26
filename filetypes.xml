@@ -15,6 +15,7 @@
       <mapping pattern="db schema info" type="PLAIN_TEXT" />
       <mapping pattern="bidsList" type="PLAIN_TEXT" />
       <mapping pattern="fewBids" type="PLAIN_TEXT" />
+      <mapping pattern="bing_settings" type="PLAIN_TEXT" />
       <mapping pattern="1_add_payee_table_up" type="PLAIN_TEXT" />
       <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping pattern="manualScript" type="PLAIN_TEXT" />
